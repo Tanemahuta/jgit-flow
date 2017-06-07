@@ -1,6 +1,6 @@
 # JGit-Flow
-
-**Current Version: 1.0-m5.1**
+**Fork of: https://bitbucket.org/atlassian/jgit-flow/**
+**Current Version: 1.0-tanemahuta**
 
 **Issue Tracker Has Moved To: [https://ecosystem.atlassian.net/browse/MJF](https://ecosystem.atlassian.net/browse/MJF)**
 
